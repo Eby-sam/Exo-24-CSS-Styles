@@ -1,1 +1,47 @@
+* {
+    font-family: Verdana, Arial sans-serif;
+}
 
+h1, h2, h3 {
+    font-family: Cambria , Arial sans-serif;
+}
+
+
+#right {
+    text-align: right;
+    color: blue;
+    font-variant: all-petite-caps;
+}
+
+.produit {
+    color: coral;
+    font-style: italic;
+}
+
+.general {
+    color: blue;
+    font-weight: bold;
+    text-decoration-line: blink;
+}
+ .reference {
+     color: black;
+     font-style: italic;
+     background-color: #8b8a8a;
+ }
+
+ blockquote {
+     text-transform: capitalize;
+     first-letter: green;
+ }
+
+ #divOne > h3 {
+     color: red;
+ }
+
+ .entete {
+     font-variant: all-petite-caps;
+ }
+
+ blockquote + p {
+     text-indent: 20px;
+ }
